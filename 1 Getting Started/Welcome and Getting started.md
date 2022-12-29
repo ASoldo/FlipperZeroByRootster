@@ -7,6 +7,8 @@ Steps:
 4. `git pull`[^4]
 5. `./fbt flash_usb`[^5]
 
+Now you are ready for your first [[Hello World Application (.fap)]]
+
 
  [^1]: This will download/clone project from github to our local machine on desired destination.
  [^2]: In Terminal, navigate to flipperzero-firmware location on your machine

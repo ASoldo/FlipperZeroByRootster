@@ -8,7 +8,7 @@ Here we will create some basic folder structure with some necesery files in it.
 Anatomy of Flipper Zero Application
 
 hello_world
-├── application.fam [^4]
+├── application.fam[^4]
 ├── hello_world_10px.png
 ├── hello_world.c[^5]
 └── README.md

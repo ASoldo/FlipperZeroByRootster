@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "470d1c56c4230a84",
@@ -180,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52dd25c4daa5a723",
+  "active": "e3e1b5dfce23b5dd",
   "lastOpenFiles": [
-    "2 Examples/Hello World Application (.fap).md",
     "1 Getting Started/Welcome and Getting started.md",
+    "2 Examples/Hello World Application (.fap).md",
     "README.md"
   ]
 }
