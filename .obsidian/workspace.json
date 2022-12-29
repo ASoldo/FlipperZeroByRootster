@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3e1b5dfce23b5dd",
+            "id": "4058f6a0f20e9659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Examples/Hello World Application (.fap).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b35c0fd80da8e14a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +29,32 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f34c3a68c04f9f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Getting Started/Welcome and Getting started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c7fcfc5da096b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e1b5dfce23b5dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e1b5dfce23b5dd",
+  "active": "52dd25c4daa5a723",
   "lastOpenFiles": [
-    "Hello World Application (.fap).md"
+    "2 Examples/Hello World Application (.fap).md",
+    "1 Getting Started/Welcome and Getting started.md",
+    "README.md"
   ]
 }
