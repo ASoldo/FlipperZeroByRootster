@@ -38,12 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "1 Getting Started/Welcome and Getting started.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1c7fcfc5da096b2d",
@@ -124,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -181,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e1b5dfce23b5dd",
+  "active": "b35c0fd80da8e14a",
   "lastOpenFiles": [
     "1 Getting Started/Welcome and Getting started.md",
     "2 Examples/Hello World Application (.fap).md",

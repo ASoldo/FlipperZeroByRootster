@@ -9,6 +9,8 @@ Steps:
 
 Now you are ready for your first [[Hello World Application (.fap)]]
 
+[This is me]("https://everycircuit.com/circuit/6569831044218880/dummy-load---4-nmos-share-the-load")
+
 
  [^1]: This will download/clone project from github to our local machine on desired destination.
  [^2]: In Terminal, navigate to flipperzero-firmware location on your machine
