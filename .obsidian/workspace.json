@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2 Examples/Hello World Application (.fap).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Getting Started/Welcome and Getting started.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "1c7fcfc5da096b2d",
@@ -53,9 +53,11 @@
           {
             "id": "e3e1b5dfce23b5dd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -186,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b35c0fd80da8e14a",
+  "active": "f34c3a68c04f9f58",
   "lastOpenFiles": [
     "1 Getting Started/Welcome and Getting started.md",
     "2 Examples/Hello World Application (.fap).md",
