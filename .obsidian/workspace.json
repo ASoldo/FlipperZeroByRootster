@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1 Getting Started/Welcome and Getting started.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "470d1c56c4230a84",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1 Getting Started/Welcome and Getting started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1 Getting Started/Welcome and Getting started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1 Getting Started/Welcome and Getting started.md"
               }
             }
           }
@@ -190,8 +189,8 @@
   },
   "active": "f34c3a68c04f9f58",
   "lastOpenFiles": [
+    "README.md",
     "1 Getting Started/Welcome and Getting started.md",
-    "2 Examples/Hello World Application (.fap).md",
-    "README.md"
+    "2 Examples/Hello World Application (.fap).md"
   ]
 }

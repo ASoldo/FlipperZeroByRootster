@@ -9,11 +9,12 @@ Steps:
 
 Now you are ready for your first [[Hello World Application (.fap)]]
 
-[This is me]("https://everycircuit.com/circuit/6569831044218880/dummy-load---4-nmos-share-the-load")
-
+### Honorable mention:
+[Web Flipper Editor](https://ilin.pt/stuff/fui-editor/assets/editor.html)[^6]
 
  [^1]: This will download/clone project from github to our local machine on desired destination.
  [^2]: In Terminal, navigate to flipperzero-firmware location on your machine
  [^3]: Switch to `dev` branch since we want to get latest changes
  [^4]: This is just sanity check (good practice)
  [^5]: ./fbt flash_usb will compile all applications and services used by latest flipper zero firmware and when it's done it will upload that output to Flipper Zero device. After that, flipper zero will start flashing process and will be in that state around a minute. Flipper Zero will then be updated and ready to use.
+ [^6]: This is free UI editor for your future apps, play with it.
