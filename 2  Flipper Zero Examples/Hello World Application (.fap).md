@@ -5,7 +5,7 @@ Flipper Zero Applications consists of 2 parts, "System Applications"[^1] and "Pl
 When we want to make our own application, we need to place it in special folder that Flipper Zero Developers give us access to, and that is `applications_user`[^3] folder.
 Here we will create some basic folder structure with some necesery files in it.
 
-Anatomy of Flipper Zero Application
+### Anatomy of Flipper Zero Application
 
 hello_world
 ├── application.fam[^4]
@@ -111,7 +111,6 @@ int32_t hello_world_app(void* p) {
         // Select an event from the queue into the event variable (wait indefinitely if the queue is empty)
         // and check that we managed to do it
         furi_check(furi_message_queue_get(event_queue, &event, FuriWaitForever) == FuriStatusOk);
-
         if((event.type == InputTypePress) || (event.type == InputTypeRepeat)) {
             // If the "back" button is pressed, then we exit the loop, and hence the application
             if(event.key == InputKeyBack) {
@@ -125,7 +124,6 @@ int32_t hello_world_app(void* p) {
             }
             if(event.key == InputKeyLeft) {
                 FURI_LOG_D("my app", "Rootster %i", 2);
-
                 // FURI_LOG_D("integer %i", someintvalue);
                 // FURI_LOG_D("character %c", charvalue);
                 // FURI_LOG_D("integer %s", chararray);
@@ -139,7 +137,6 @@ int32_t hello_world_app(void* p) {
             }
             if(event.key == InputKeyDown) {
                 FURI_LOG_D("my app", "Rootster %i", 4);
-
                 // FURI_LOG_D("integer %i", someintvalue);
                 // FURI_LOG_D("character %c", charvalue);
                 // FURI_LOG_D("integer %s", chararray);
@@ -148,7 +145,6 @@ int32_t hello_world_app(void* p) {
             if(event.key == InputKeyOk) {
                 FURI_LOG_D("my app", "Rootster %i", 4);
                 notification_message(notifications, &sequence_blink_red_100);
-
                 // FURI_LOG_D("integer %i", someintvalue);
                 // FURI_LOG_D("character %c", charvalue);
                 // FURI_LOG_D("integer %s", chararray);
@@ -162,7 +158,6 @@ int32_t hello_world_app(void* p) {
         // choose cli, then type this command:
         // log
     }
-
     // Special cleanup of memory occupied by the queue
     furi_message_queue_free(event_queue);
     view_port_enabled_set(view_port, false);
