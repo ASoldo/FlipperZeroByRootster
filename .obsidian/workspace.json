@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 C Language/Code,Build,Run.md",
-                "mode": "source",
+                "file": "2  Flipper Zero Examples/Hello World Application (.fap).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Getting Started/Welcome and Getting started.md",
-                "mode": "preview",
+                "file": "3 C Language/Code,Build,Run.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f81f9d85ef5878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 C Language/Code,Build,Run.md",
+                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 C Language/Code,Build,Run.md",
+                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 C Language/Code,Build,Run.md"
+                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md"
               }
             }
           }
@@ -183,12 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "642d10f10b696e62",
+  "active": "f3f81f9d85ef5878",
   "lastOpenFiles": [
-    "1 Getting Started/Vim-Nvim/Vim setup.md",
-    "3 C Language/Code,Build,Run.md",
     "2  Flipper Zero Examples/Hello World Application (.fap).md",
+    "2  Flipper Zero Examples/Dialog Application (.fap).md",
+    "3 C Language/Code,Build,Run.md",
     "1 Getting Started/Welcome and Getting started.md",
+    "1 Getting Started/Vim-Nvim/Vim setup.md",
     "README.md"
   ]
 }

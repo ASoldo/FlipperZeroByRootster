@@ -20,6 +20,11 @@ int main(void) {    /* void as param means this function takes no params*/
 }
 ```
 
+```c
+gcc -c -fsyntax-only main.cc
+```
+>  can be used to check for errors in specific file without creating the output.
+
 In this example, we have a `main` function that declares and initializes a variable of each of the C programming language's primitive data types:
 
 -   `char`: a single byte that can store a character or small integer and is represented with single quotes ''.
@@ -127,7 +132,7 @@ The final executable output file is named `main.sh`. It is linking object files 
 
 ### You can then run the ELF executable 'main.sh':
 
-! If you have permission issues you can try
+>! If you have permission issues you can try
 
 ```sh
 chmod u+x ./main.sh
