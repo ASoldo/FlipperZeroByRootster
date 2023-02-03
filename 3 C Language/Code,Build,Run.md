@@ -31,7 +31,7 @@ int main(void) {    /* void as param means this function takes no params*/
 >long double: 10 bytes (on most implementations)
 
 ```c
-gcc -c -fsyntax-only main.cc
+gcc -c -fsyntax-only main.c
 ```
 >  can be used to check for errors in specific file without creating the output.
 
