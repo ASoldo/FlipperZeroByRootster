@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "642d10f10b696e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2  Flipper Zero Examples/Hello World Application (.fap).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b35c0fd80da8e14a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2  Flipper Zero Examples/Hello World Application (.fap).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f34c3a68c04f9f58",
             "type": "leaf",
             "state": {
@@ -61,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md",
+                "file": "1 Getting Started/Vim-Nvim/Vim setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cb9b6a4c12dc1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2  Flipper Zero Examples/Hello World Application (.fap).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md",
+                "file": "1 Getting Started/Vim-Nvim/Vim setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md",
+                "file": "1 Getting Started/Vim-Nvim/Vim setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md"
+                "file": "1 Getting Started/Vim-Nvim/Vim setup.md"
               }
             }
           }
@@ -197,8 +185,8 @@
   },
   "active": "f3f81f9d85ef5878",
   "lastOpenFiles": [
-    "2  Flipper Zero Examples/Hello World Application (.fap).md",
     "2  Flipper Zero Examples/Dialog Application (.fap).md",
+    "2  Flipper Zero Examples/Hello World Application (.fap).md",
     "3 C Language/Code,Build,Run.md",
     "1 Getting Started/Welcome and Getting started.md",
     "1 Getting Started/Vim-Nvim/Vim setup.md",

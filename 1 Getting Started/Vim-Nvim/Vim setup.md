@@ -110,5 +110,7 @@ After that you can save your changes with `:w` or `wq` if you want to save and e
 >select all inside <> - viT
 >delete all inside and start typing <> - ciT
 
-
-
+### Terminal
+>exexute any shell command - :! echo "hello"
+>open explorer - :e .
+>switch to another tab/buffer - :b 

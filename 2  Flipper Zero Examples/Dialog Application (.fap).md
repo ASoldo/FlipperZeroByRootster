@@ -6,7 +6,8 @@ dialogue
 ├── dialogue.c
 └── README.md
 
-Now let's see content of `application.fam`[^4]
+Now let's see content of `application.fam` 
+
 ```c
 App(appid = "dialogue",
 name = "Dialogue",
