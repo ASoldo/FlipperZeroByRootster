@@ -20,6 +20,16 @@ int main(void) {    /* void as param means this function takes no params*/
 }
 ```
 
+### Primitive Sizes in bytes
+>char: 1 byte
+>short int: 2 bytes
+>int: 2 or 4 bytes (depends on the implementation)
+>long int: 4 bytes
+>long long int: 8 bytes
+>float: 4 bytes
+>double: 8 bytes
+>long double: 10 bytes (on most implementations)
+
 ```c
 gcc -c -fsyntax-only main.cc
 ```

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4058f6a0f20e9659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Getting Started/Welcome and Getting started.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f34c3a68c04f9f58",
             "type": "leaf",
             "state": {
@@ -49,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2  Flipper Zero Examples/Hello World Application (.fap).md",
+                "file": "2  Flipper Zero Examples/Dialog Application (.fap).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Getting Started/Vim-Nvim/Vim setup.md",
+                "file": "3 C Language/Code,Build,Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Getting Started/Vim-Nvim/Vim setup.md",
+                "file": "3 C Language/Code,Build,Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Getting Started/Vim-Nvim/Vim setup.md"
+                "file": "3 C Language/Code,Build,Run.md"
               }
             }
           }
@@ -183,13 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f81f9d85ef5878",
+  "active": "f34c3a68c04f9f58",
   "lastOpenFiles": [
     "2  Flipper Zero Examples/Dialog Application (.fap).md",
     "2  Flipper Zero Examples/Hello World Application (.fap).md",
+    "1 Getting Started/Vim-Nvim/Vim setup.md",
     "3 C Language/Code,Build,Run.md",
     "1 Getting Started/Welcome and Getting started.md",
-    "1 Getting Started/Vim-Nvim/Vim setup.md",
     "README.md"
   ]
 }
