@@ -5,7 +5,7 @@ Steps:
 2. `cd fipperzero-firmware`[^2]
 3. `git checkout dev`[^3]
 4. `git pull`[^4]
-5. `./fbt flash_usb`[^5]
+5. `./fbt flash_usb_full`[^5]
 
 Now you are ready for your first [[Hello World Application (.fap)]]
 
